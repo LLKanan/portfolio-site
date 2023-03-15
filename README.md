@@ -1,7 +1,7 @@
 Tech Stack:
 
 Frontend:
--HTkML
+-HTML
 -CSS
 -JavaScript
 -React
