@@ -1,11 +1,15 @@
-Tech Stack:
+# Portfolio Site
+### What are we aiming to showcase:
+- AI & Machine Learning
+- Architectural knowledge
+- Cloud knowledge
 
-Frontend:
--HTML
--CSS
--JavaScript
--React
-
-Backend:
-node.js
-AWS
+### Tech Stack:
+- Frontend
+  - HTML
+   - CSS
+   - JavaScript
+   - React
+ - Backend:
+   - node.js
+   - AWS
