@@ -13,3 +13,9 @@
  - Backend:
    - node.js
    - AWS
+
+### Webpages:
+ - Landing page
+ - About me
+ - Projects
+ - Work experience
